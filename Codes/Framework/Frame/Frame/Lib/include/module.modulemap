@@ -1,0 +1,11 @@
+//
+//  module.modulemap
+//  Frame
+//
+//  Created by Saleh Enam Shohag on 18/4/20.
+//  Copyright © 2020 Saleh Enam Shohag. All rights reserved.
+//
+
+module LibObjc {
+    header "ObjcLib.h"
+}
